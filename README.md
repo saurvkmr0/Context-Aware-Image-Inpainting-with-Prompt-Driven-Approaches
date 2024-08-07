@@ -2,7 +2,8 @@
 
 ## Introduction to Image Inpainting (Generative Filled)
 #### -The user provides an image with a prompt of the object which needs to be inpainted and that part will be masked.
-#### -Additionally, textual prompts that describe the desired context for the masked region will be inpainted with.
+#### -Additionally, textual prompts that describe the desired context for the masked region will be inpainted with.  
+
 
 ## Motivation to Image Inpainting (Generative Filled)
 #### -Restoration and Enhancement: The image inpainting includes restoring old, damaged, or corrupted images to enhance their visual quality for archival, historical documentation, or artistic preservation purposes.
